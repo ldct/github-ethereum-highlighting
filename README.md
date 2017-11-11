@@ -18,7 +18,7 @@ Then, install this script. You can either copy userscript.js into your manager o
 
 # development
 
-I develop this using chrome + tampermonkey
+I develop using chrome + tampermonkey
 
 # todo
 
