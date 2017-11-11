@@ -2,8 +2,8 @@
 // @name         Github Solidity Highlighter
 // @namespace    https://github.com/ldct/github-ethereum-highlighting/
 // @version      0.1
-// @description  try to take over the world!
-// @author       You
+// @description  synatx highlighting of ethereum languages (solidity, viper, LLL) on github
+// @author       ldct
 // @match        https://*.github.com/*.sol
 // @require      https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js
 // @require      https://cdn.jsdelivr.net/npm/highlightjs-solidity@1.0.5/solidity.min.js
