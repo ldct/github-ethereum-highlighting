@@ -6,7 +6,7 @@ userscript (greasymonkey / tampermonkey) for synatx highlighting of ethereum lan
 
 # limitations
 
-Currently, this uses javascript syntax highlighting for solidity since I can't find a good highlightjs style for solidity.
+Currently, this uses javascript syntax highlighting for solidity and python for serpent since I can't find a good highlightjs styles for those languages.
 
 Github seems to use ajax (no page reload) for tree navigation; try refreshing the page if you don't see it highlighted
 
