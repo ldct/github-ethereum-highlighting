@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Github Solidity Highlighter
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/ldct/github-ethereum-highlighting/
 // @version      0.1
 // @description  try to take over the world!
 // @author       You
