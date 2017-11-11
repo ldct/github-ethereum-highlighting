@@ -8,6 +8,8 @@ userscript (greasymonkey / tampermonkey) for synatx highlighting of ethereum lan
 
 Currently, this uses javascript syntax highlighting for solidity since I can't find a good highlightjs style for solidity.
 
+Github seems to use ajax (no page reload) for tree navigation; try refreshing the page if you don't see it highlighted
+
 # installation
 
 First, install a userscript manager (eg greasymonkey for firefox or tampermonkey for chrome).
@@ -20,10 +22,11 @@ I develop this using chrome + tampermonkey
 
 # todo
 
-- add viper, LLL, EVM, serpent
-- create proper solidity language definition
+- add LLL, EVM bytecode
+- create proper solidity language definitions
 
 maybe
 
+- add bamboo
 - add line numbers
 - package as chrome extension
