@@ -29,8 +29,6 @@
     }).toArray();
     const code = f.join("\n");
 
-    hljs.registerLanguage('solidity', hljsDefineSolidity);
-
     $(".blob-wrapper").empty().append($("<code>", {
         text: code,
         class: "javascript",
